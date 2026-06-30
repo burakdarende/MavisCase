@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: d17e1f54affe1734da6712deab709fe3
+guid: f4a47a46d51bcda44be8c4da45f99cfa
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__lambert5
-    second: {fileID: 2100000, guid: c6de6abe5f05d65458cb4bbef5e486e5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__lambert6
-    second: {fileID: 2100000, guid: 9119d4e491fb74644887bad6d0265048, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__pasted__lambert4
-    second: {fileID: 2100000, guid: 2bcdc08d2efb803408db32ae32fc587b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: standardSurface1
-    second: {fileID: 2100000, guid: e9cc97fc1828b7e43b99b8fbcfb7819b, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
