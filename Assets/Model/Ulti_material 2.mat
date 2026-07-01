@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Atlas_map 1
+  m_Name: Ulti_material 2
   m_Shader: {fileID: -6465566751694194690, guid: 3739e562a03fc0b4982d8aa66cc50865, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -84,9 +84,9 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.60897434
+    - _Glossiness: 0.6923077
     - _GlossyReflections: 1
-    - _METALNESS: 0.3974359
+    - _METALNESS: 0.5804196
     - _Metallic: 0
     - _Mode: 3
     - _OcclusionStrength: 1
@@ -95,7 +95,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _SPECULAR_IOR: 1.5
-    - _SPECULAR_ROUGHNESS: 0.60897434
+    - _SPECULAR_ROUGHNESS: 0.6923077
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -107,7 +107,7 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 0
     m_Colors:
-    - _BASE_COLOR: {r: 0.38679248, g: 0.38679248, b: 0.38679248, a: 1}
+    - _BASE_COLOR: {r: 0.043852318, g: 0.67132866, b: 0, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EMISSION_COLOR: {r: 0, g: 0, b: 0, a: 0}
@@ -116,7 +116,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &7813225544250500734
+--- !u!114 &2088775841668883490
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

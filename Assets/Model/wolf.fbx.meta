@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: f91e2adaa7b7ab545b10be09a1c71b0b
+guid: 5666ffb013ccb814ca72d528c9d0be10
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Atlas_map
-    second: {fileID: 2100000, guid: 0413da12ac0a6de45a60e091e83e57c7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ulti_material
-    second: {fileID: 2100000, guid: 0b24dcb4135f52940b15efda89a6bc80, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -110,7 +100,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
